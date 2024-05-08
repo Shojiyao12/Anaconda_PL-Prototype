@@ -2,12 +2,14 @@
 1. Copy all the contents from this repository.
 2. Open these files using an IDE, like VSCode
 3. Run the windows.py file
-3.1. The text box shown on the left is used to input the code, and then the “Run Code” button can be pressed to execute that code.
-3.2. The text box on the right then outputs the result.
+   - The text box shown on the left is used to input the code, and then the “Run Code” button can be pressed to execute that code.
+   - The text box on the right then outputs the result.
 
 ## Core Concept:
-  • Design and Implementation of Programming Languages
-Link to Write-Up/Manual/Test Cases: https://drive.google.com/drive/folders/11kQj1frD7wbH_fohvMQpgUHOjqXkew8s?usp=sharing
+- Design and Implementation of Programming Languages
+
+### URL:
+- Link to Write-Up/Manual/Test Cases: https://drive.google.com/drive/folders/11kQj1frD7wbH_fohvMQpgUHOjqXkew8s?usp=sharing
 
 ## Preview of Programming Language Prototype:
 ![Sample Test Case for Variable Management](https://github.com/Shojiyao12/Anaconda_PL/assets/90734662/c9ee0f13-8287-4f0e-b42e-6752a4a69a19)
